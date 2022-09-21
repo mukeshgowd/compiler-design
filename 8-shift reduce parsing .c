@@ -122,4 +122,4 @@ int main()
 	else //else reject
 		printf("Reject\n");
 }
-// This code is contributed by Ritesh Aggarwal
+
